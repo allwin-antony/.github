@@ -1,62 +1,81 @@
 <div align="center">
 
-  <h1>Hi there, I'm <a href="https://github.com/allwin-antony">Allwin Antony</a> 👋</h1>
+  <h1>Allwin S Antony</h1>
+
+  <p><strong>Privacy-first apps. Practical developer tools. On-device machine learning.</strong></p>
+
+  <p>Building open-source software for the web, mobile, and the workflows in between.</p>
 
   <p>
-    <strong>Mobile & Software Developer | AI/ML & Privacy Enthusiast | Open Source Creator</strong>
-  </p>
-
-  <p>
-    <a href="https://github.com/sponsors/allwin-antony">
-      <img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=ff69b4&style=for-the-badge" alt="Sponsor on GitHub" />
-    </a>
-    <a href="https://github.com/allwin-antony?tab=repositories">
-      <img src="https://img.shields.io/github/followers/allwin-antony?label=Follow&style=for-the-badge&color=blue" alt="GitHub followers" />
-    </a>
+    <a href="#selected-projects">Explore projects</a> &middot;
+    <a href="https://devpantry.com/">Try DevPantry</a> &middot;
+    <a href="#connect">Get in touch</a> &middot;
+    <a href="https://github.com/sponsors/allwin-antony">Sponsor</a>
   </p>
 
 </div>
 
 ---
 
-### 🚀 About Me
+## About me
 
-I build privacy-first applications, developer tooling, and intelligent software blending mobile experiences with on-device machine learning.
+I'm Allwin, a software developer working across web, mobile, and applied machine learning. I build tools that make everyday work easier while giving people more control over their data.
 
-- 🛠️ **Current Focus:** Privacy-preserving mobile tools, financial SMS intelligence, and Markdown ecosystem tooling.
-- 💡 **Passionate About:** Clean architecture, edge AI/ML, Bluetooth Low Energy (BLE), and developer productivity.
-- 💖 **Open Source:** Dedicated to publishing transparent, offline-first tools that respect user data.
+My interests meet at **local processing**, **clear architecture**, and **developer productivity** — whether that's understanding a banking SMS on a phone, previewing a technical document, or helping a team write together.
 
----
+## Selected projects
 
-### 🌟 Featured Projects
+### [DevPantry](https://github.com/allwin-antony/devpantry)
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 📱 **[Expense_tracker](https://github.com/allwin-antony/Expense_tracker)** | Privacy-first Android expense manager with on-device FastText ML parsing for Indian bank & UPI SMS messages. Zero cloud sync required. | Flutter, Dart, FastText |
-| 📝 **[md_viewer_vs](https://github.com/allwin-antony/md_viewer_vs)** | Feature-packed Markdown viewer tool featuring LaTeX, Mermaid diagrams, syntax highlighting, and rich rendering. | TypeScript, Markdown, VS Tools |
-| 📡 **[BLE_Chat](https://github.com/allwin-antony/BLE_Chat)** | Offline, peer-to-peer chat application operating over Bluetooth Low Energy. | Mobile, BLE, Dart/Kotlin |
-| 🧠 **[indian-bank-sms-ner](https://github.com/allwin-antony/indian-bank-sms-ner)** | Named Entity Recognition models and utilities tailored for Indian banking SMS transaction extraction. | Python, NLP, Machine Learning |
+A browser-first developer toolbox for image processing, JWT inspection, mock data, fonts, and icons. Core utilities process data locally in the browser, with tools for both everyday tasks and testing difficult edge cases.
 
----
+**Built with:** TypeScript · Next.js · React · Tailwind CSS
 
-### 💖 Support My Work
+**Try it:** [devpantry.com](https://devpantry.com/)
 
-If you find my projects helpful or use them in your daily workflow, consider sponsoring! Sponsoring helps cover testing devices, development hosting, and continuous open-source maintenance.
+### [Expense Tracker](https://github.com/allwin-antony/Expense_tracker)
 
-<div align="center">
+An offline-first Android app that turns Indian bank, card, and UPI SMS messages into organized transactions. On-device FastText classification, local parsing, and SQLite storage keep financial data on the phone.
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20Me-GitHub%20Sponsors-ea4aaa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/allwin-antony)
+**Built with:** Flutter · Dart · Kotlin · SQLite · FastText
 
-</div>
+### [Glyphroom](https://github.com/allwin-antony/Glyphroom)
 
----
+A self-hosted documentation platform for team knowledge sharing, currently in developer preview. It brings together real-time collaborative editing, team spaces, and AI co-authoring through the Model Context Protocol (MCP).
 
-### 📫 Connect With Me
+**Built with:** TypeScript · React · Fastify · PostgreSQL · Yjs
+
+### [MD Previewer](https://github.com/allwin-antony/md_viewer_vs)
+
+A VS Code extension for rich Markdown previews with Mermaid diagrams, LaTeX math, source-preview synchronization, and HTML/PDF export. Rendering dependencies are bundled for offline use.
+
+**Built with:** TypeScript · VS Code API · KaTeX · Mermaid
+
+**Install:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=allwin-antony.md-viewer) · [Open VSX](https://open-vsx.org/extension/allwin-antony/md-viewer)
+
+### [Indian Bank SMS NER](https://github.com/allwin-antony/indian-bank-sms-ner)
+
+A financial-message NLP pipeline for extracting amounts, merchants, and accounts, alongside intent and transaction-direction classification. Includes ONNX export and quantization for mobile deployment.
+
+**Built with:** Python · Dart · MiniLM · ONNX
+
+**Also exploring:** [BLE Chat](https://github.com/allwin-antony/BLE_Chat), a Bluetooth Low Energy chat application.
+
+[Browse all repositories →](https://github.com/allwin-antony?tab=repositories)
+
+## Contribute & support
+
+The best way to get involved is to pick a project you use:
+
+- **Share feedback.** Open an issue in the relevant repository with your use case or a reproducible bug report.
+- **Make it better.** Documentation improvements, fixes, and pull requests are welcome. Start with the project's README for setup and contribution details.
+- **Support development.** If a tool saves you time, [GitHub Sponsors](https://github.com/sponsors/allwin-antony) helps support ongoing open-source work.
+
+## Connect
 
 - **GitHub:** [@allwin-antony](https://github.com/allwin-antony)
 - **Email:** [santonyallwin@gmail.com](mailto:santonyallwin@gmail.com)
 
-<div align="center">
-  <sub>Configured with community health files and global funding profile via <code>.github</code>.</sub>
-</div>
+---
+
+This `.github` repository also contains my shared [GitHub funding configuration](.github/FUNDING.yml).
